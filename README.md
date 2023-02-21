@@ -1,5 +1,5 @@
 Crowd-Funding consoleapp
-Crowdfunding is the practice of funding a project or venture by raising small amounts of money from a large number of people, typically via the Internet. Crowdfunding is  a form of crowdsourcing and alternative finance. In 2015, over US$34 billion was raised worldwide by crowdfunding. 
+<!-- Crowdfunding is the practice of funding a project or venture by raising small amounts of money from a large number of people, typically via the Internet. Crowdfunding is  a form of crowdsourcing and alternative finance. In 2015, over US$34 billion was raised worldwide by crowdfunding. 
 
 The aim of the project: 
 Create a console apptostartfundraise projects.The app should include the following features:
@@ -27,4 +27,4 @@ Create a console apptostartfundraise projects.The app should include the followi
 •Usercan search for a project using date (bonus)
 
 Similar Projects to get some inspiration:)
-https://www.gofundme.comhttps://www.kickstarter.comhttps://www.crowdfunding.com
+https://www.gofundme.comhttps://www.kickstarter.comhttps://www.crowdfunding.com -->
